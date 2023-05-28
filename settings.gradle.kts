@@ -5,6 +5,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "forktest"
+rootProject.name = "cider"
 
-include("forktest-api", "forktest-server")
+include("cider-api", "cider-server")
